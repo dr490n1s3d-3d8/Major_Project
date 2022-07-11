@@ -1,0 +1,49 @@
+
+Date : 2022-06-14
+ Name : PochamReddy Komal Reddy
+ Email : rekomal33@gmail.com
+ Contact No : 6303920878
+ Result : AB-
+
+
+
+Date : 2022-06-15
+Name : tester
+Email : test@gmail.com
+Contact No : 0987654321
+Result : A+
+
+
+Date : 2022-06-17
+Name : mani
+Email : mani444@gmail.com
+Contact No : 0987654321
+Result : AB-
+
+
+Date : 2022-06-22
+Name : sample patient
+Email : sample@gmail.com
+Contact No : 00000343003
+Result : AB-
+
+
+Date : 2022-06-27
+Name : saisunil
+Email : saisunilakula444@gmail.com
+Contact No : 00000000
+Result : AB+
+
+
+Date : 2022-06-27
+Name : saisunil
+Email : saisunilakula444@gmail.com
+Contact No : 00000000
+Result : AB+
+
+
+Date : 2022-06-27
+Name : saisunil
+Email : saisunilakula444@gmail.com
+Contact No : 0000000090
+Result : AB+

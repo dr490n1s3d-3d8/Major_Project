@@ -1,0 +1,10 @@
+pillow
+opencv-python
+jinja2
+weasyprint
+fpdf
+matplotlib
+pandas
+numpy
+tk
+

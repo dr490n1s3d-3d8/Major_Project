@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Report Generation</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="report_template.css">
+    </head>
+    <body>
+       <h2>Blood Type Testing Report</h2>
+       <table style="margin-left:auto;margin-right:auto;">
+        <tr>
+          <th>Patient Name</th>
+          <th>Age</th>
+          <th>Gender</th>
+        </tr>
+        <tr>
+          <td>{{name}}</td>
+          <td>{{age}}</td>
+          <td>{{gender}}</td>
+        </tr>
+      </table>
+      <p>
+      </p>
+      
+      <table style="margin-left:auto;margin-right:auto;">
+        <tr>
+          <th>Date</th>
+          <th>Referred By</th>
+          <th>Lab No.</th>
+        </tr>
+        <tr>
+          <td>{{date}}</td>
+          <td>{{doctor}}</td>
+          <td>{{lab}}</td>
+        </tr>
+      </table>
+     
+      <h2>Result</h2>
+      <p id="result">{{result}}</p>
+      <h3 id="method">Method : Slide Agglutination</h3>
+
+      <h2>Samples</h2>
+      <!-- <img src={{antiA}} alt="Anti-A" width="500" height="600">
+      <img src={{antiB}} alt="Anti-B" width="500" height="600">
+      <img src={{antiD}} alt="Anti-D" width="500" height="600">
+      <img src={{control}} alt="Control Reagent" width="500" height="600"> -->
+      <div class="center">
+      <img src="Anti-A.jpg"alt="Anti-A" width="100" height="100">
+      <img src="Anti-B.jpg" alt="Anti-B" width="100" height="100">
+      <img src="Anti-D.jpg" alt="Anti-D" width="100" height="100">
+      <img src="Control.jpg" alt="Control Reagent" width="100" height="100">
+      </div>
+        <script src="" async defer></script>
+    </body>
+</html>
