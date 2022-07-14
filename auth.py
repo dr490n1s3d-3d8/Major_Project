@@ -51,9 +51,9 @@ def sendOtp():
     cpy += otp_no
     smtp_server="smtp.gmail.com"
     port = 465
-    sender = "vincenzoquassano444@gmail.com"
+    sender = "[your gmail id ]"
     receiver = em.get()
-    password = "mihzvgolelbqvpld"
+    password = "[Your Gmail Password Here]" # Note : Google increased security use token for accessing gmail in your settings
    
     msg_body = f'otp is {cpy}'
     msg = EmailMessage()
