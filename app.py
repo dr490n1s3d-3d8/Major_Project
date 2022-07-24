@@ -30,7 +30,7 @@ ws.attributes('-fullscreen',True)
 
 # label = Label(ws, text='Blood Detection Using Image Processing')
 # label.pack(ipadx=50, ipady=10)
-image = Image.open("Blood.jpg")
+image = Image.open("Blood.png")
 resize_image= image.resize((400,200))
 
 img = ImageTk.PhotoImage(resize_image)
